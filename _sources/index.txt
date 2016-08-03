@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to cuthb3rt.github.io's documentation!
-==============================================
+Welcome to cuthb3rt's Homepage
+==============================
 
-`Link text <physics_sim/index.html>`_
+Click on a link below to visit some other repository documentation:
+
+- `Physics Sim <physics_sim/index.html>`_
 
 Contents:
 
@@ -14,6 +16,16 @@ Contents:
    :maxdepth: 2
 
 
+About me
+========
+
+My name is Andy Cuthbert, I'm a Pipeline TD in the VFX/Archvis industry.
+
+Most of my code lives in private repo's but this section of the site contains personal pet projects.
+
+Feel free to ask questions, create pull requests, and generally comment on my code.
+
+I hope to include some other tools soon!
 
 Indices and tables
 ==================
